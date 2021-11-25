@@ -179,19 +179,19 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api?username=rafaelpapastamatiou&count_private=true&show_icons=true&theme=radical"
+      src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api?username=leofdias&count_private=true&show_icons=true&theme=radical"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api/top-langs/?username=rafaelpapastamatiou&layout=compact&theme=radical&langs_count=10"
+      src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api/top-langs/?username=leofdias&layout=compact&theme=radical&langs_count=10"
     />
   </a>
 </div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     align="center"
-    src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api/wakatime?username=rafaelpapastamatiou&layout=compact&theme=radical"
+    src="https://github-readme-stats-kze34hkag-leofdias.vercel.app/api/wakatime?username=leofdias&layout=compact&theme=radical"
   />
 </a>
