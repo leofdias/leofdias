@@ -103,13 +103,13 @@
     alt="Sass"
     title="Sass"
   />
-  <img
+  <!-- <img
     src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg"
     height="48"
     width="48"
     alt="React Query"
     title="React Query"
-  />
+  /> -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="48"
