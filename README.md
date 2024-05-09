@@ -47,13 +47,13 @@
     alt="Next.js"
     title="Next.js"
   />
-  <!-- <img
+  <img
     src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4"
     height="48"
     width="48"
     alt="Express.js"
     title="Express.js"
-  /> -->
+  />
   <!-- <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
     height="48"
@@ -103,13 +103,13 @@
     alt="Sass"
     title="Sass"
   />
-   <!-- <img
+  <img
     src="https://react-query-v2.tanstack.com/_next/static/images/emblem-light-5d1cdce6c8bbb006ac6cefb8e1642877.svg"
     height="48"
     width="48"
     alt="React Query"
     title="React Query"
-  /> -->
+  />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
     height="48"
@@ -145,13 +145,13 @@
     alt="Heroku"
     title="Heroku"
   /> -->
-  <!-- <img
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
     height="48"
     width="48"
     alt="Docker"
     title="Docker"
-  /> -->
+  />
   <!-- <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
     height="48"
