@@ -31,8 +31,8 @@
 ### 📊 GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leofdias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofdias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leofdias&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide_rank=true&cache_seconds=1800" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofdias&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats,picpay-clone,git&cache_seconds=1800" alt="top langs" />
 </p>
 
 <p align="left">
