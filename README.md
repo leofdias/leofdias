@@ -1,39 +1,38 @@
-<h1 align="left">Leonardo Dias</h1>
+<div align="center">
 
-<p align="left">
-  Desenvolvedor Full Stack com foco em JavaScript/TypeScript, construção de APIs e interfaces modernas para web e mobile.
-</p>
+# Leonardo Dias
 
-<p align="left">
+### Full Stack Developer • JavaScript/TypeScript
+
+Construo produtos web e mobile com foco em experiência, performance e código sustentável.
+
+<p>
   <a href="https://www.linkedin.com/in/leonardo-dias-a829a0191/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:leo_fdias@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-## Stack
+</div>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,sass,mongodb,mysql,docker,expo&perline=8" />
-</p>
+---
 
-## Sobre
+## `about-me.ts`
 
-- Desenvolvimento full stack com ecossistema JavaScript.
-- Experiência com React, Next.js, Node.js e Express.
-- Banco de dados com MongoDB e MySQL.
-- Entrega de aplicações com foco em performance, manutenção e boa experiência de uso.
-
-## Projeto em destaque
-
-### [Biblia Guiada](https://github.com/leofdias/biblia-guiada)
-Aplicação voltada para organização e acompanhamento de leitura bíblica guiada, com foco em usabilidade e constância no estudo.
-
-## GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=leofdias&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofdias&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
+```ts
+const leonardoDias = {
+  role: "Desenvolvedor Full Stack",
+  mainStack: ["JavaScript", "TypeScript", "Node.js", "React", "Next.js", "Express"],
+  mobileAndWeb: ["React Native", "Expo"],
+  styling: ["Sass"],
+  databases: ["MongoDB", "MySQL"],
+  devOps: ["Docker"],
+  mindset: [
+    "Código limpo e legível",
+    "Boas práticas de arquitetura",
+    "Performance com foco em produto",
+    "Evolução contínua"
+  ]
+};
