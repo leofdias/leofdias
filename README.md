@@ -1,5 +1,4 @@
 <div align="center">
-
 # Leonardo Dias
 
 ### Full Stack Developer • JavaScript/TypeScript
